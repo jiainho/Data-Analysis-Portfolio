@@ -43,7 +43,6 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Highland Coffee | Brand Funnel, Churn Prediction & Segmentation
 **Access:** 
-You can view the dashboard, code, and report here:
 [`PDF Report`](https://drive.google.com/drive/u/0/folders/1EraYo8K6NqkxSKOsn9hxGKIQNtlACovA)
 [`Source Files`](https://drive.google.com/drive/u/0/folders/1EraYo8K6NqkxSKOsn9hxGKIQNtlACovA)
 [`Power BI Dashboard`](https://drive.google.com/drive/folders/1Csc8aF8-dy4SjkVRHVkQb784VLGPkQSn)
@@ -118,6 +117,7 @@ Churn Prediction: Build a machine learning model to predict which customers are 
 
 ### Retail Customer Behavior Analysis
 **Proposal:** [`Retail Customer Behavior Analysis`](https://drive.google.com/drive/u/0/folders/1EraYo8K6NqkxSKOsn9hxGKIQNtlACovA)
+
 **Goal:** To understand customer purchasing behaviors and preferences by examining the influence of age, gender, transaction, patterns, and seasonal trends
 
 **Description:** This project explores retail sales data to uncover patterns in customer behavior and key drivers of revenue. Using Linear Regression, decision tree and mode comparison model, we aim to help retailers make informed decisions on which product categories or customer segments drive the most value.
@@ -134,16 +134,48 @@ Churn Prediction: Build a machine learning model to predict which customers are 
 
 ### Basic Statistics & Clean Data
 
-**Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
+**Code:** [`Basic Statistics & Clean Data`](https://github.com/jiainho/DA01_sql/blob/main/Project%2001.sql)
 
-**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
+**Description:** This project was developed as a classroom practical exercise to apply fundamental SQL techniques in data cleaning and preparation. The goal was to create a cleaned version of a retail sales dataset for further RFM (Recency-Frequency-Monetary) analysis.
 
-**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
+**Skills:** ALTER, UPDATE, ADD COLUMN, CASE, string functions
 
-**Skills:** data cleaning, data analysis, data visualization.
+**Technology:** PostgreSQL
 
-**Technology:** Tidyverse 
+### Cohort Analysis 
 
+**Code:** [`Cohort Analysis`](https://github.com/jiainho/DA01_sql/blob/main/Project%202.sql)
+**Chart cohort final:** [`Cohort chart`](https://docs.google.com/spreadsheets/d/1KT6kU-WSc6_qrohmylYGuGhpAznP0vwb/edit?usp=sharing&ouid=113831551563412238237&rtpof=true&sd=true)
+
+**theLook eCommerce dataset:**[`dataset`](https://console.cloud.google.com/marketplace/product/bigquery-public-data/thelook-ecommerce?q=search&referrer=search&project=sincere-torch-350709&pli=1&inv=1&invt=Ab3Lnw)
+
+**Description:** Ecommerce Dataset: Exploratory Data Analysis (EDA) and Cohort Analysis in SQL
+
+**Skills:**SQL Querying (Advanced SQL):
+- SELECT, WHERE, GROUP BY, ORDER BY
+- Aggregation functions: COUNT(), SUM(), AVG(), MAX(), MIN()
+- Window functions: DENSE_RANK() for ranking top products
+- String & Date functions: FORMAT_DATE(), DATE_TRUNC(), EXTRACT(), etc.
+- UNION: combine queries (e.g., youngest + oldest customers)
+- Subqueries and CTEs: for cleaner and modular logic
+- Creating VIEWs
+
+**Technology:** PostgreSQL
+
+
+**Mini exercise to Extract and Explore data:**
+[`Code files 1:`](https://github.com/jiainho/DA01_sql/blob/main/Day3_baitap.sql)
+[`Code files 2:`](https://github.com/jiainho/DA01_sql/blob/main/Day5_baitap.sql)
+[`Code files 3:`](https://github.com/jiainho/DA01_sql/blob/main/Day9_baitap.sql)
+[`Code files 4:`](https://github.com/jiainho/DA01_sql/blob/main/MID-TERM.sql)
+[`Code files 5:`](https://github.com/jiainho/DA01_sql/blob/main/Buoi11_baitap.sql) 
+[`Code files 6:`](https://github.com/jiainho/DA01_sql/blob/main/buoi12_baitap.sql)
+[`Code files 7:`](https://github.com/jiainho/DA01_sql/blob/main/Buoi%2015_baitap.sql) 
+[`Code files 8:`](https://github.com/jiainho/DA01_sql/blob/main/Buoi16_Baitap.sql)
+
+Skills: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+Technology: PostgreSQL
 
 
 
