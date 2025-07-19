@@ -12,20 +12,20 @@ My CV in [pdf](https://drive.google.com/file/d/1rnv6kYaxM7cAns3IPKJWFHA8WAx9wzR8
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [About](https://github.com/jiainho/Data-Analysis-Portfolio/blob/main/README.md#about)
+- [Portfolio Projects](https://github.com/jiainho/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - SAS - Machine Learning
-    - [Retail Customer Behavior Analysis](https://drive.google.com/file/d/1ll9fpKqcXbKGV-rWkhDAFV7rZHL9kT_a/view)
-    - [Netflix user base Analysis](https://drive.google.com/file/d/1rnhEBWeJ8lmafz2HJNm5ImjbXLQzvAeb/view?usp=sharing)
-    - [Predicting Customer Subscription to Term Deposit using Neural Network](https://github.com/jiainho/DA01_sql/wiki/SAS_Projects)
+    - [Retail Customer Behavior Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+    - [Netflix user base Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+    - [Predicting Customer Subscription to Term Deposit using Neural Network](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
 
  - Python
 - Excel / Google Sheets
   - SQL
-    - [Basic Statistics & Clean Data](https://github.com/jiainho/DA01_sql/blob/main/Project%2001.sql)
-    - [Cohort Analysis](https://github.com/jiainho/DA01_sql/blob/main/Project%202.sql)
-    - [Segmentation Analysis](https://github.com/jiainho/DA01_sql/blob/main/Project%202.sql)
-    - [Mini exercise to Extract and Explore data](https://github.com/jiainho/DA01_sql/blob/main/Mini%20exercise%20to%20Extract%20and%20Explore%20data.sql)
+    - [Basic Statistics & Clean Data](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+    - [Cohort Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+    - [Segmentation Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+    - [Mini exercise to Extract and Explore data](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
 
   - Power BI
     - [Churn Analysis Dashboard](https://drive.google.com/file/d/1rnhEBWeJ8lmafz2HJNm5ImjbXLQzvAeb/view?usp=sharing)
