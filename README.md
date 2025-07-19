@@ -9,7 +9,7 @@ Beyond the classroom, I’ve worked as a Research Assistant, supported business 
 
 My CV in [pdf](https://drive.google.com/file/d/1rnv6kYaxM7cAns3IPKJWFHA8WAx9wzR8/view?usp=sharing).
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+This is a repository to showcase skills, share projects and track my progress in Data Analytics related topics.
 
 ## Table of Contents
 - [About](https://github.com/jiainho/Data-Analysis-Portfolio/blob/main/README.md#about)
@@ -193,7 +193,7 @@ Business Administration
 
 
 ## Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have:
 - SAS Certified Specialist: Machine Learning Using SAS (SAS Institute)
            - Certified in supervised learning, data sources, building models & model assessment and deployment using SAS tools
 - AI & Digital Forensics Certification (PAMS) [Research Topic](https://drive.google.com/file/d/1M_T-7wYfzrN_FBYQrGfy0ZpiAHynI2Q1/view?usp=sharing)  [Cert](https://drive.google.com/file/d/1tf87bdd9cdybkZE_sQiPBM0c1Pbflzm5/view?usp=sharing)    
