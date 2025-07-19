@@ -42,8 +42,8 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Highland Coffee | Brand Funnel, Churn Prediction & Segmentation
 **Access:** 
-[`PDF Report`](https://drive.google.com/drive/u/0/folders/1EraYo8K6NqkxSKOsn9hxGKIQNtlACovA)
-[`Source Files`](https://drive.google.com/drive/u/0/folders/1EraYo8K6NqkxSKOsn9hxGKIQNtlACovA)
+[`PDF Report`](https://drive.google.com/file/d/1-iIL5KIf9G9wOxRqZiIeSLU_MxpxNkqx/view?usp=sharing)
+[`Source Files`](https://drive.google.com/file/d/1pUJADw4IOoNVOojtdo6h8P3hXadFe1tA/view?usp=sharing)
 [`Power BI Dashboard`](https://drive.google.com/drive/folders/1Csc8aF8-dy4SjkVRHVkQb784VLGPkQSn)
 
 **Goal:** 
@@ -99,7 +99,7 @@ Churn Prediction: Build a machine learning model to predict which customers are 
 
 
 ### Netflix User base Analysis: Revenue Insights and Strategies
-**Proposal:** [`Netflix User base Analysis`](https://drive.google.com/drive/u/0/folders/1EraYo8K6NqkxSKOsn9hxGKIQNtlACovA)
+**Proposal:** [`Netflix User base Analysis`](https://drive.google.com/file/d/1rnhEBWeJ8lmafz2HJNm5ImjbXLQzvAeb/view?usp=sharing)
 
 **Goal:** What are the key factors influencing monthly revenue among Netflix users, and how do user characteristics differ across subscription types?
 
@@ -116,7 +116,7 @@ Churn Prediction: Build a machine learning model to predict which customers are 
 
 
 ### Retail Customer Behavior Analysis
-**Proposal:** [`Retail Customer Behavior Analysis`](https://drive.google.com/drive/u/0/folders/1EraYo8K6NqkxSKOsn9hxGKIQNtlACovA)
+**Proposal:** [`Retail Customer Behavior Analysis`](https://drive.google.com/file/d/1ll9fpKqcXbKGV-rWkhDAFV7rZHL9kT_a/view?usp=sharing)
 
 **Goal:** To understand customer purchasing behaviors and preferences by examining the influence of age, gender, transaction, patterns, and seasonal trends
 
