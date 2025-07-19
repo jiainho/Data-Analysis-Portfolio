@@ -15,17 +15,17 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/jiainho/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/jiainho/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - SAS - Machine Learning
-    - [Retail Customer Behavior Analysis](https://github.com/jiainho/Data-Analysis-Portfolio#retail-customer-behavior-analysis)
-    - [Netflix user base Analysis](https://github.com/jiainho/Data-Analysis-Portfolio#Netflix-user-base-Analysis)
-    - [Predicting Customer Subscription to Term Deposit using Neural Network](https://github.com/jiainho/Data-Analysis-Portfolio#predicting-Customer-Subscription-to-Term-Deposit-using-Neural-Network)
+    - [Retail Customer Behavior Analysis](https://github.com/jiainho/Data-Analysis-Portfolio?tab=readme-ov-file#retail-customer-behavior-analysis)
+    - [Netflix user base Analysis](https://github.com/jiainho/Data-Analysis-Portfolio?tab=readme-ov-file#netflix-user-base-analysis-revenue-insights-and-strategies)
+    - [Predicting Customer Subscription to Term Deposit using Neural Network](https://github.com/jiainho/Data-Analysis-Portfolio?tab=readme-ov-file#predicting-term-deposit-subscription-with-neural-networks-sas)
 
  - Python
 - Excel / Google Sheets
   - SQL
-    - [Basic Statistics & Clean Data](https://github.com/jiainho/Data-Analysis-Portfolio#Basic-Statistics-&-Clean-Data)
-    - [Cohort Analysis](https://github.com/jiainho/Data-Analysis-Portfolio#Cohort-Analysis)
+    - [Basic Statistics & Clean Data](https://github.com/jiainho/Data-Analysis-Portfolio?tab=readme-ov-file#basic-statistics--clean-data)
+    - [Cohort Analysis](https://github.com/jiainho/Data-Analysis-Portfolio?tab=readme-ov-file#cohort-analysis)
     - [Segmentation Analysis](https://github.com/jiainho/Data-Analysis-Portfolio#Segmentation-Analysis)
-    - [Mini exercise to Extract and Explore data](https://github.com/jiainho/Data-Analysis-Portfolio#Mini-exercise-to-Extract-and-Explore-data)
+    - [Mini exercise to Extract and Explore data](https://github.com/jiainho/Data-Analysis-Portfolio?tab=readme-ov-file#mini-exercise-to-extract-and-explore-data)
 
   - Power BI
     - [Churn Analysis Dashboard](https://drive.google.com/drive/folders/1Csc8aF8-dy4SjkVRHVkQb784VLGPkQSn)
