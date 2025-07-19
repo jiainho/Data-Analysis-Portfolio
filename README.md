@@ -15,8 +15,8 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/jiainho/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/jiainho/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - SAS - Machine Learning
-    - [Retail Customer Behavior Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-    - [Netflix user base Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+    - [Retail Customer Behavior Analysis](https://github.com/jiainho/Data-Analysis-Portfolio#retail-customer-behavior-analysis)
+    - [Netflix user base Analysis](https://github.com/jiainho/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
     - [Predicting Customer Subscription to Term Deposit using Neural Network](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
 
  - Python
