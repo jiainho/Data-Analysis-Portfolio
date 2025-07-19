@@ -14,82 +14,125 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
-  - Python
+  - SAS - Machine Learning
+    - [Retail Customer Behavior Analysis](https://drive.google.com/file/d/1ll9fpKqcXbKGV-rWkhDAFV7rZHL9kT_a/view)
+    - [Netflix user base Analysis](https://drive.google.com/file/d/1rnhEBWeJ8lmafz2HJNm5ImjbXLQzvAeb/view?usp=sharing)
+    - [Predicting Customer Subscription to Term Deposit using Neural Network](https://github.com/jiainho/DA01_sql/wiki/SAS_Projects)
+
+ - Python
+- Excel / Google Sheets
   - SQL
-    - [Basic Statistics & Clean Data (Study Project)](https://github.com/jiainho/DA01_sql/blob/main/Project%2001.sql)
-    - [Cohort Analysis (Study Project)](https://github.com/jiainho/DA01_sql/blob/main/Project%202.sql)
-    - [Segmentation Analysis (Study Project)](https://github.com/jiainho/DA01_sql/blob/main/Project%202.sql)
+    - [Basic Statistics & Clean Data](https://github.com/jiainho/DA01_sql/blob/main/Project%2001.sql)
+    - [Cohort Analysis](https://github.com/jiainho/DA01_sql/blob/main/Project%202.sql)
+    - [Segmentation Analysis](https://github.com/jiainho/DA01_sql/blob/main/Project%202.sql)
     - [Mini exercise to Extract and Explore data](https://github.com/jiainho/DA01_sql/blob/main/Mini%20exercise%20to%20Extract%20and%20Explore%20data.sql)
 
-  - SAS - Machine Learning
-    - [Retail Customer Behavior Analysis (Study Project)](https://drive.google.com/file/d/1ll9fpKqcXbKGV-rWkhDAFV7rZHL9kT_a/view)
-    - [Netflix user base Analysis (Study Project)](https://drive.google.com/file/d/1rnhEBWeJ8lmafz2HJNm5ImjbXLQzvAeb/view?usp=sharing)
-    - [Analysis of Salary (Study Project)](https://drive.google.com/file/d/1vkchSorXbcIO7ZJ-kl0l8Yl5Rdn6rbhf/view?usp=sharing)
-    - [Predicting Customer Subscription to Term Deposit using Neural Network](https://github.com/jiainho/DA01_sql/wiki/SAS_Projects)
- 
- - Excel / Google Sheets
   - Power BI
-  
+    - [Churn Analysis Dashboard](https://drive.google.com/file/d/1rnhEBWeJ8lmafz2HJNm5ImjbXLQzvAeb/view?usp=sharing)
+    - [Competitive Analysis](https://github.com/jiainho/DA01_sql/wiki/SAS_Projects)  
+
+- End-to-end Project: [Highland Coffee | Brand Funnel, Churn Prediction & Segmentation](https://github.com/jiainho/DA01_sql/blob/main/%5BBI9competition%5DHighland%20Coffee%20Analysis.docx%20(1).pdf)
 
 
-- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Education](https://github.com/jiainho/Data-Analysis-Portfolio/blob/main/README.md#education)  
+- [Certificates](https://github.com/jiainho/Data-Analysis-Portfolio/blob/main/README.md#certificates)
+- [Contact](https://github.com/jiainho/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Analyzing the Factors Contributing to the Success of a Movie
-**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+### Highland Coffee | Brand Funnel, Churn Prediction & Segmentation
+**Access:** 
+You can view the dashboard, code, and report here:
+[`PDF Report`](https://drive.google.com/drive/u/0/folders/1EraYo8K6NqkxSKOsn9hxGKIQNtlACovA)
+[`Source Files`](https://drive.google.com/drive/u/0/folders/1EraYo8K6NqkxSKOsn9hxGKIQNtlACovA)
+[`Power BI Dashboard`](https://drive.google.com/drive/folders/1Csc8aF8-dy4SjkVRHVkQb784VLGPkQSn)
 
-**Goal:** To determine what factors contribute the most to a movie's success.
+**Goal:** 
+- Brand Funnel Analysis: Evaluate awareness, consideration, purchase, and loyalty stages for Highland vs. competitors.
+- Churn Analysis: Identify high-risk segments using behavioral, perceptual, and demographic patterns.
+- Customer Segmentation: Use clustering to group customers based on key attributes.
+Churn Prediction: Build a machine learning model to predict which customers are likely to churn.
 
-**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+**Description:** This project was developed as part of the Business Intelligence 9 competition. We analyzed customer data from Highland Coffee to uncover brand performance insights, segment customer behavior, and build a churn prediction model to improve customer retention.
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Technology:** 
+- SQL: Data cleaning, feature engineering, churn flag logic.
+- Power BI: Dashboard for churn rate and brand funnel visualization with drill-down analysis.
+- Python: K-means clustering and classification models for churn prediction.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Results:** 
+- Highland Coffee shows high awareness but lower loyalty than its competitors, suggesting issues in conversion and retention.
+- Churn rate is higher among passive customers who visit during weekdays and are price-sensitive.
+- Segmentation identified distinct clusters based on age, visit time, brand perception, and need states.
+- A decision tree classifier achieved [insert metric] accuracy in identifying likely churners.
 
-**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
-
-### Tech Store Sales Analysis
-
-**Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
-
-**Code:** [`Tech Store Sales Analysis.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
-
-**Description:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
-
-**Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
-
-**Technology:** Python, Pandas, Matplotlib.
-
-**Results:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
-
-
-
-### Nashville Housing Data Cleaning
-**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
-
-**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
+**Dashboard Preview:** 
+- Churn rate by segment, age, need states, daypart
+- Drill-down from NPS group to customer-level insights
+- Brand funnel comparison vs. competitors
+- Strategic recommendation visuals
 
 
-**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
+### Predicting Term Deposit Subscription with Neural Networks (SAS)
 
-**Technology:** SQL Server
+**Goal:** To build a neural network model that predicts whether a bank client will subscribe to a term deposit, using demographic and behavioral data collected from previous marketing campaigns.
 
+**Process:** [`Predicting Term Deposit Subscription`](https://github.com/jiainho/DA01_sql/wiki/SAS_Projects)
 
-### Covid 19 Data Exploration
-**Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
-
-**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
-
-**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
-
-**Technology:** SQL Server
+**Description:** The data set, Bank, is made available by the UCI Machine Learning Repository, and includes information about the clients of a bank and the bank’s marketing efforts for a “term deposit” subscription. The data are from a Portuguese bank. Each row in the data set pertains to one client. There is a total of 9,280 clients in the data set. Predict whether a client opened a term deposit (coded as 1) or not (coded as 0).
 
 
+**Skills:**
+- Neural Network Modeling (AutoNeural & Manual settings)
+- Model Optimization (Hidden Units, Training Iterations, Backpropagation)
+- Misclassification Rate & Model Evaluation
+- SAS Enterprise Miner Workflow Design
+- Overfitting Diagnosis & Model Comparison
 
-### Legendary Pokémon Analysis
+
+**Technology:** SAS Enterprise Miner 15.2
+
+**Results:** 
+- Final model achieved a Validation Misclassification Rate of 26.36%, significantly outperforming the 50% baseline.
+- No evidence of overfitting was detected — model performance was consistent across Training, Validation, and Test sets.
+- Manual tuning (number of hidden units, optimization method) performed better than AutoNeural default settings.
+
+
+
+### Netflix User base Analysis: Revenue Insights and Strategies
+**Proposal:** [`Netflix User base Analysis`](https://drive.google.com/drive/u/0/folders/1EraYo8K6NqkxSKOsn9hxGKIQNtlACovA)
+
+**Goal:** What are the key factors influencing monthly revenue among Netflix users, and how do user characteristics differ across subscription types?
+
+**Description:** This project analyzes user data from Netflix to draw meaningful insights about viewer profiles, preferred genres, and subscription trends. Using Distribution Analysis and Linear Regression model, we aim to support Netflix’s marketing and content strategy decisions.
+
+**Skills:** Demographic segmentation, Exploratory data analysis (EDA), Correlation matrix and behavioral clustering, Data storytelling and strategic insight generation
+
+**Technology:** SAS Enterprise Guide
+**Key Findings:**
+- Young adults (ages 18–34) form the majority of frequent users, with a strong preference for action and thriller genres.
+- There’s a positive correlation between monthly watch time and customer retention.
+- Personalized content recommendations could significantly boost engagement across age groups.
+
+
+### Retail Customer Behavior Analysis
+**Proposal:** [`Retail Customer Behavior Analysis`](https://drive.google.com/drive/u/0/folders/1EraYo8K6NqkxSKOsn9hxGKIQNtlACovA)
+**Goal:** To understand customer purchasing behaviors and preferences by examining the influence of age, gender, transaction, patterns, and seasonal trends
+
+**Description:** This project explores retail sales data to uncover patterns in customer behavior and key drivers of revenue. Using Linear Regression, decision tree and mode comparison model, we aim to help retailers make informed decisions on which product categories or customer segments drive the most value.
+
+**Skills:** Data cleaning & preprocessing, Correlation analysis, Hypothesis testing, Exploratory data analysis (EDA), Data visualization & insight communication
+
+**Technology:** SAS Enterprise Miner 15.2
+
+**Results:**
+- Certain product types and customer segments show strong correlations with high sales volume.
+- Seasonal purchasing behavior and spending patterns were evident through time-series visualizations.
+- Insights can support inventory management, marketing focus, and customer targeting strategies.
+
+
+### Basic Statistics & Clean Data
 
 **Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
 
