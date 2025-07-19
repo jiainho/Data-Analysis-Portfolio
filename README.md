@@ -163,7 +163,7 @@ Churn Prediction: Build a machine learning model to predict which customers are 
 **Technology:** PostgreSQL
 
 
-**Mini exercise to Extract and Explore data:**
+### Mini exercise to Extract and Explore data
 [`Code files 1:`](https://github.com/jiainho/DA01_sql/blob/main/Day3_baitap.sql)
 [`Code files 2:`](https://github.com/jiainho/DA01_sql/blob/main/Day5_baitap.sql)
 [`Code files 3:`](https://github.com/jiainho/DA01_sql/blob/main/Day9_baitap.sql)
