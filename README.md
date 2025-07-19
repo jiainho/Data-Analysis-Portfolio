@@ -31,7 +31,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Churn Analysis Dashboard](https://drive.google.com/drive/folders/1Csc8aF8-dy4SjkVRHVkQb784VLGPkQSn)
     - [Competitive Analysis](https://drive.google.com/drive/folders/1Csc8aF8-dy4SjkVRHVkQb784VLGPkQSn)  
 
-- End-to-end Project: [Highland Coffee | Brand Funnel, Churn Prediction & Segmentation](https://github.com/jiainho/Data-Analysis-Portfolio#Highland-Coffee-|-Brand-Funnel,-Churn-Prediction-&-Segmentation)
+- End-to-end Project: [Highland Coffee | Brand Funnel, Churn Prediction & Segmentation](https://github.com/jiainho/Data-Analysis-Portfolio?tab=readme-ov-file#highland-coffee--brand-funnel-churn-prediction--segmentation)
 
 - [Education](https://github.com/jiainho/Data-Analysis-Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/jiainho/Data-Analysis-Portfolio/blob/main/README.md#certificates)
