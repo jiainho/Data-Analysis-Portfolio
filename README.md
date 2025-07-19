@@ -16,23 +16,22 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](https://github.com/jiainho/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - SAS - Machine Learning
     - [Retail Customer Behavior Analysis](https://github.com/jiainho/Data-Analysis-Portfolio#retail-customer-behavior-analysis)
-    - [Netflix user base Analysis](https://github.com/jiainho/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-    - [Predicting Customer Subscription to Term Deposit using Neural Network](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+    - [Netflix user base Analysis](https://github.com/jiainho/Data-Analysis-Portfolio#netflix-user-base-analysis)
+    - [Predicting Customer Subscription to Term Deposit using Neural Network](https://github.com/jiainho/Data-Analysis-Portfolio#predicting-Customer-Subscription-to-Term-Deposit-using-Neural-Network)
 
  - Python
 - Excel / Google Sheets
   - SQL
-    - [Basic Statistics & Clean Data](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-    - [Cohort Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-    - [Segmentation Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-    - [Mini exercise to Extract and Explore data](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+    - [Basic Statistics & Clean Data](https://github.com/jiainho/Data-Analysis-Portfolio#Basic-Statistics-&-Clean-Data)
+    - [Cohort Analysis](https://github.com/jiainho/Data-Analysis-Portfolio#Cohort-Analysis)
+    - [Segmentation Analysis](https://github.com/jiainho/Data-Analysis-Portfolio#Segmentation-Analysis)
+    - [Mini exercise to Extract and Explore data](https://github.com/jiainho/Data-Analysis-Portfolio#Mini-exercise-to-Extract-and-Explore-data)
 
   - Power BI
-    - [Churn Analysis Dashboard](https://drive.google.com/file/d/1rnhEBWeJ8lmafz2HJNm5ImjbXLQzvAeb/view?usp=sharing)
-    - [Competitive Analysis](https://github.com/jiainho/DA01_sql/wiki/SAS_Projects)  
+    - [Churn Analysis Dashboard](https://drive.google.com/drive/folders/1Csc8aF8-dy4SjkVRHVkQb784VLGPkQSn)
+    - [Competitive Analysis](https://drive.google.com/drive/folders/1Csc8aF8-dy4SjkVRHVkQb784VLGPkQSn)  
 
-- End-to-end Project: [Highland Coffee | Brand Funnel, Churn Prediction & Segmentation](https://github.com/jiainho/DA01_sql/blob/main/%5BBI9competition%5DHighland%20Coffee%20Analysis.docx%20(1).pdf)
-
+- End-to-end Project: [Highland Coffee | Brand Funnel, Churn Prediction & Segmentation](https://github.com/jiainho/Data-Analysis-Portfolio#Highland-Coffee-|-Brand-Funnel,-Churn-Prediction-&-Segmentation)
 
 - [Education](https://github.com/jiainho/Data-Analysis-Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/jiainho/Data-Analysis-Portfolio/blob/main/README.md#certificates)
@@ -109,6 +108,7 @@ Churn Prediction: Build a machine learning model to predict which customers are 
 **Skills:** Demographic segmentation, Exploratory data analysis (EDA), Correlation matrix and behavioral clustering, Data storytelling and strategic insight generation
 
 **Technology:** SAS Enterprise Guide
+
 **Key Findings:**
 - Young adults (ages 18–34) form the majority of frequent users, with a strong preference for action and thriller genres.
 - There’s a positive correlation between monthly watch time and customer retention.
@@ -151,7 +151,7 @@ Churn Prediction: Build a machine learning model to predict which customers are 
 
 **Description:** Ecommerce Dataset: Exploratory Data Analysis (EDA) and Cohort Analysis in SQL
 
-**Skills:**SQL Querying (Advanced SQL):
+**Skills:** SQL Querying (Advanced SQL):
 - SELECT, WHERE, GROUP BY, ORDER BY
 - Aggregation functions: COUNT(), SUM(), AVG(), MAX(), MIN()
 - Window functions: DENSE_RANK() for ranking top products
@@ -164,14 +164,14 @@ Churn Prediction: Build a machine learning model to predict which customers are 
 
 
 ### Mini exercise to Extract and Explore data
-[`Code files 1:`](https://github.com/jiainho/DA01_sql/blob/main/Day3_baitap.sql)
-[`Code files 2:`](https://github.com/jiainho/DA01_sql/blob/main/Day5_baitap.sql)
-[`Code files 3:`](https://github.com/jiainho/DA01_sql/blob/main/Day9_baitap.sql)
-[`Code files 4:`](https://github.com/jiainho/DA01_sql/blob/main/MID-TERM.sql)
-[`Code files 5:`](https://github.com/jiainho/DA01_sql/blob/main/Buoi11_baitap.sql) 
-[`Code files 6:`](https://github.com/jiainho/DA01_sql/blob/main/buoi12_baitap.sql)
-[`Code files 7:`](https://github.com/jiainho/DA01_sql/blob/main/Buoi%2015_baitap.sql) 
-[`Code files 8:`](https://github.com/jiainho/DA01_sql/blob/main/Buoi16_Baitap.sql)
+[`Code file 1`](https://github.com/jiainho/DA01_sql/blob/main/Day3_baitap.sql)
+[`Code file 2`](https://github.com/jiainho/DA01_sql/blob/main/Day5_baitap.sql)
+[`Code file 3`](https://github.com/jiainho/DA01_sql/blob/main/Day9_baitap.sql)
+[`Code file 4`](https://github.com/jiainho/DA01_sql/blob/main/MID-TERM.sql)
+[`Code file 5`](https://github.com/jiainho/DA01_sql/blob/main/Buoi11_baitap.sql) 
+[`Code file 6`](https://github.com/jiainho/DA01_sql/blob/main/buoi12_baitap.sql)
+[`Code file 7`](https://github.com/jiainho/DA01_sql/blob/main/Buoi%2015_baitap.sql) 
+[`Code file 8`](https://github.com/jiainho/DA01_sql/blob/main/Buoi16_Baitap.sql)
 
 Skills: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
