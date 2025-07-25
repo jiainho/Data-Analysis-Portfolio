@@ -19,8 +19,8 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Netflix user base Analysis](https://github.com/jiainho/Data-Analysis-Portfolio?tab=readme-ov-file#netflix-user-base-analysis-revenue-insights-and-strategies)
     - [Predicting Customer Subscription to Term Deposit using Neural Network](https://github.com/jiainho/Data-Analysis-Portfolio?tab=readme-ov-file#predicting-term-deposit-subscription-with-neural-networks-sas)
 
- - Python
-- Excel / Google Sheets
+  - Python
+  - Excel / Google Sheets
   - SQL
     - [Basic Statistics & Clean Data](https://github.com/jiainho/Data-Analysis-Portfolio?tab=readme-ov-file#basic-statistics--clean-data)
     - [Cohort Analysis](https://github.com/jiainho/Data-Analysis-Portfolio?tab=readme-ov-file#cohort-analysis)
@@ -31,7 +31,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Churn Analysis Dashboard](https://drive.google.com/drive/folders/1Csc8aF8-dy4SjkVRHVkQb784VLGPkQSn)
     - [Competitive Analysis](https://drive.google.com/drive/folders/1Csc8aF8-dy4SjkVRHVkQb784VLGPkQSn)  
 
-- End-to-end Project: [Highland Coffee | Brand Funnel, Churn Prediction & Segmentation](https://github.com/jiainho/Data-Analysis-Portfolio?tab=readme-ov-file#highland-coffee--brand-funnel-churn-prediction--segmentation)
+  - End-to-end Project: [Highland Coffee | Brand Funnel, Churn Prediction & Segmentation](https://github.com/jiainho/Data-Analysis-Portfolio?tab=readme-ov-file#highland-coffee--brand-funnel-churn-prediction--segmentation)
 
 - [Education](https://github.com/jiainho/Data-Analysis-Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/jiainho/Data-Analysis-Portfolio/blob/main/README.md#certificates)
